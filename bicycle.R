@@ -49,7 +49,7 @@ rowtotal <- sum(
   nrow(tripdata_202212)
 )
 
-#print(rowtotal)
+print(rowtotal)
 #View the structure and first 6 rows of tripdata_2022
 str(tripdata_2022)
 head(tripdata_2022)
